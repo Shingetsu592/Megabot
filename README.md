@@ -1,4 +1,4 @@
-"# Megabot" 
+# Megabot 
 
 1. Encoder_trial using encoder to run the robot based on the arena track
 2. Previous used code was Main/Test_Main_Eksbot_2, but TCS34725 sensor was broken
